@@ -64,17 +64,17 @@ public class MohamedGamal {
 
 ## 📂 Projects
 
+### 🎓 Student Management System
+A clean layered RESTful API with full CRUD operations.
+- DTO pattern to decouple database entities from client payloads
+- Comprehensive API documentation via Swagger/OpenAPI
+- *Tech Stack: Spring Boot · Spring Data JPA · PostgreSQL · MapStruct · Lombok · Swagger*
+
 ### 🏥 Medicine Inventory System
 A comprehensive RESTful API for pharmacy inventory management.
 - Tracks **low-stock and expired medications** with advanced business logic
 - Global Exception Handler (`@RestControllerAdvice`) for structured error responses
 - Strict input validation and clean DTO pattern
-- *Tech Stack: Spring Boot · Spring Data JPA · PostgreSQL · MapStruct · Lombok · Swagger*
-
-### 🎓 Student Management System
-A clean layered RESTful API with full CRUD operations.
-- DTO pattern to decouple database entities from client payloads
-- Comprehensive API documentation via Swagger/OpenAPI
 - *Tech Stack: Spring Boot · Spring Data JPA · PostgreSQL · MapStruct · Lombok · Swagger*
 
 ### 🏦 Bank Database System
