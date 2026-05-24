@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/mohamadgamalmohamad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Gamal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/MohamadGamal4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MohamadGamal4-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:mohamadgamal414@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohamadgamal414-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
